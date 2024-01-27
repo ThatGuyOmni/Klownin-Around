@@ -2033,3 +2033,951 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.27-01.01.11:292][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
 [2024.01.27-01.01.11:313][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2024.01.27-01.01.11:332][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.27-01.10.10:055][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.27-01.10.10:057][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.024
+[2024.01.27-01.10.10:057][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/Decorators/BTD_PhaseCheck] ([2] browsable assets)...
+[2024.01.27-01.10.10:057][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/Decorators/BTD_PhaseCheck]
+[2024.01.27-01.10.10:060][875]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/Decorators/BTD_PhaseCheck_Auto4
+[2024.01.27-01.10.10:060][875]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTD_PhaseCheck_Auto43FA8B0A148AB9404461D0E86D2C99566.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Autosaves/Game/Blueprints/AI/Decorators/BTD_PhaseCheck_Auto4.uasset'
+[2024.01.27-01.10.10:060][875]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.01.27-01.13.38:675][661]BlueprintLog: New page: Compile BTD_PhaseCheck
+[2024.01.27-01.13.38:698][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.27-01.13.39:319][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.13.39:370][726]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Decorators/BTD_PhaseCheck
+[2024.01.27-01.13.39:370][726]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTD_PhaseCheck7747A6A64ED85CE3BEBFBF8F713B0C60.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Decorators/BTD_PhaseCheck.uasset'
+[2024.01.27-01.13.39:376][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.16 sec)
+[2024.01.27-01.13.39:381][726]AssetCheck: New page: Asset Save: BTD_PhaseCheck
+[2024.01.27-01.13.39:381][726]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Decorators/BTD_PhaseCheck.BTD_PhaseCheck
+[2024.01.27-01.13.45:150][183]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.27-01.13.45:159][183]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.27-01.13.45:165][183]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.27-01.13.45:175][184]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.27-01.14.43:930][233]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PhaseManager
+[2024.01.27-01.14.43:933][233]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/BP_PhaseManager.
+[2024.01.27-01.14.43:935][233]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.27-01.14.46:508][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.14.46:554][533]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Decorators/BTD_PhaseCheck
+[2024.01.27-01.14.46:555][533]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTD_PhaseCheck6DFB5C6F4F45A57BEEA0B9AF5835F223.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Decorators/BTD_PhaseCheck.uasset'
+[2024.01.27-01.14.46:559][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.21 sec)
+[2024.01.27-01.14.46:564][533]AssetCheck: New page: Asset Save: BTD_PhaseCheck
+[2024.01.27-01.14.46:564][533]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Decorators/BTD_PhaseCheck.BTD_PhaseCheck
+[2024.01.27-01.14.49:025][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PhaseManager.BP_PhaseManager
+[2024.01.27-01.14.49:025][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.14.49:025][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-01.14.49:100][820]LogViewport: Scene viewport resized to 1141x905, mode Windowed.
+[2024.01.27-01.14.49:122][821]LogViewport: Scene viewport resized to 1141x894, mode Windowed.
+[2024.01.27-01.14.49:236][822]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-01.15.51:660][301]BlueprintLog: New page: Compile BP_PhaseManager
+[2024.01.27-01.15.51:694][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.27-01.15.52:314][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.15.52:372][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PhaseManager" FILE="../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/BP_PhaseManager.uasset" SILENT=true
+[2024.01.27-01.15.52:374][369]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PhaseManager
+[2024.01.27-01.15.52:374][369]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BP_PhaseManagerFF1ECBF449DCE1041799D3A87C1C9530.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/BP_PhaseManager.uasset'
+[2024.01.27-01.15.52:375][369]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/BP_PhaseManager.
+[2024.01.27-01.15.52:383][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.28 sec)
+[2024.01.27-01.15.52:387][369]AssetCheck: New page: Asset Save: BP_PhaseManager
+[2024.01.27-01.15.52:387][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PhaseManager.BP_PhaseManager
+[2024.01.27-01.17.24:318][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: ================================================
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Total job queries 3,591, among them cache hits 24 (0.67%)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Tracking 3,559 distinct input hashes that result in 2,531 distinct outputs (71.12%)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: RAM used: 59.21 MiB of 1.60 GiB budget. Usage: 3.61%
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Shaders Compiled: 3,559
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Jobs assigned 3,567, completed 3,559 (99.78%)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Average time worker was idle: 55.48 s
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Time job spent in pending queue: average 100.31 s, longest 219.63 s
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Job execution time: average 5.08 s, max 12.18 s
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Job life time (pending + execution): average 105.62 s, max 222.56
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 249.17 s
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Jobs were issued in 463 batches (only local compilation was used), average 7.70 jobs/batch
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Average processing rate: 14.28 jobs/sec
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Total thread time: 1,821.716 s
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Total thread preprocess time: 55.869 s
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Percentage time preprocessing: 3.07%
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Effective parallelization: 7.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.66 sec, max 4.57 sec, min 2.30 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.41 sec, max 5.99 sec, min 1.22 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.46 sec, max 2.15 sec, min 0.70 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 1.37 sec, max 1.37 sec, min 1.37 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.02% of total time (compiled  150 times, average 1.22 sec, max 1.51 sec, min 0.84 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.27% of total time (compiled   96 times, average 1.00 sec, max 1.46 sec, min 0.70 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.57% of total time (compiled  128 times, average 0.65 sec, max 1.02 sec, min 0.34 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.45% of total time (compiled  128 times, average 0.63 sec, max 0.86 sec, min 0.46 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.43% of total time (compiled   96 times, average 0.84 sec, max 1.17 sec, min 0.43 sec)
+[2024.01.27-01.17.24:948][833]LogShaderCompilers: Display: ================================================
+[2024.01.27-01.17.31:828][638]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.01.27-01.17.31:828][638]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.01.27-01.17.33:581][814]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2024.01.27-01.17.33:588][814]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.01.27-01.17.33:595][814]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2024.01.27-01.17.33:601][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_T_Pose.MM_T_Pose
+[2024.01.27-01.17.33:604][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_T_Pose.MM_T_Pose, at AnimationSequence/6541a71e729529fbbc71dc84f314bfd204eae0eb
+[2024.01.27-01.17.33:860][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2024.01.27-01.17.33:869][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2024.01.27-01.17.33:875][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/26842a505021d1804e8308bd10aeeef39e05b663
+[2024.01.27-01.17.33:878][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2024.01.27-01.17.33:887][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/99eaa927611031940ccde5fa4d08c9d74acae8dc
+[2024.01.27-01.17.33:887][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2024.01.27-01.17.33:896][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/81aed7e454f463261af497906491e7e1ce332c52
+[2024.01.27-01.17.33:898][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2024.01.27-01.17.33:903][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/f1e34905e3c5d8c428fc41bbbbcfd28805848c46
+[2024.01.27-01.17.33:906][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2024.01.27-01.17.33:906][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/374284e8266b973432212a1b57b81bdc7907f3a9
+[2024.01.27-01.17.33:914][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/6fd049e0dcd91d0dcb6b7f9c96123c5635633c8a
+[2024.01.27-01.17.33:916][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2024.01.27-01.17.33:924][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2024.01.27-01.17.33:930][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/9e4f19fffafcd1500df4fdc4fe3df3681b85597b
+[2024.01.27-01.17.33:932][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2024.01.27-01.17.33:941][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/adf285681516340d7399a50e1677bf43380bc455
+[2024.01.27-01.17.33:942][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2024.01.27-01.17.33:954][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2024.01.27-01.17.33:957][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/15f08247b9b7f15b78a122e436f72cda1011ccb1
+[2024.01.27-01.17.33:964][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2024.01.27-01.17.33:971][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/1aac77e09bdb3c97eb282161011727fb288512dc
+[2024.01.27-01.17.33:976][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2024.01.27-01.17.33:986][814]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.01.27-01.17.33:988][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/b0a12cbe5c0ad8521390789dc277a28830d21dcd
+[2024.01.27-01.17.33:990][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2024.01.27-01.17.34:003][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/1f42c6702bdacc438ef866a882ed3fba7c9ec390
+[2024.01.27-01.17.34:014][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/8d27b7febe2994bdd41742ad9383e21cceb4b2c3
+[2024.01.27-01.17.34:025][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/cf2936a93df3e1f7133ba8946e7b8927b6d31bc0
+[2024.01.27-01.17.36:816][814]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd
+[2024.01.27-01.17.36:834][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.36:838][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.36:838][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.36:839][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.36:839][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.36:858][814]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd, at AnimationSequence/49ebdaf735cc8dd8f44dde9ef7caed9e27ab4ec4
+[2024.01.27-01.17.36:868][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.36:879][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.36:894][814]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.01.27-01.17.36:947][814]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.01.27-01.17.36:978][814]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.01.27-01.17.36:978][814]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.01.27-01.17.36:984][814]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.01.27-01.17.37:304][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.17.37:401][814]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownController
+[2024.01.27-01.17.37:401][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BP_TopDownControllerD11885C1479D4DDACE38A49A72C8EBA6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Blueprints/BP_TopDownController.uasset'
+[2024.01.27-01.17.37:402][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Cursor/T_Arrow" FILE="../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/T_Arrow.uasset" SILENT=true
+[2024.01.27-01.17.37:404][814]LogSavePackage: Moving output files for package: /Game/TopDown/Cursor/T_Arrow
+[2024.01.27-01.17.37:405][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Arrow390500614C831731B6CFBE98DC1D5465.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/T_Arrow.uasset'
+[2024.01.27-01.17.37:408][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Cursor/M_Cursor" FILE="../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/M_Cursor.uasset" SILENT=true
+[2024.01.27-01.17.37:412][814]LogSavePackage: Moving output files for package: /Game/TopDown/Cursor/M_Cursor
+[2024.01.27-01.17.37:412][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/M_CursorC8E54690483C87EDE6767C806EA75BD5.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/M_Cursor.uasset'
+[2024.01.27-01.17.37:413][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Cursor/SM_CursorMesh" FILE="../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/SM_CursorMesh.uasset" SILENT=true
+[2024.01.27-01.17.37:416][814]LogSavePackage: Moving output files for package: /Game/TopDown/Cursor/SM_CursorMesh
+[2024.01.27-01.17.37:416][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_CursorMeshF291DFB8433838DD80E2A78352B31111.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/SM_CursorMesh.uasset'
+[2024.01.27-01.17.37:418][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Cursor/FX_Cursor" FILE="../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/FX_Cursor.uasset" SILENT=true
+[2024.01.27-01.17.37:439][814]LogSavePackage: Moving output files for package: /Game/TopDown/Cursor/FX_Cursor
+[2024.01.27-01.17.37:439][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/FX_CursorF7EF12CD45BE7B8F84A60E889734CF2E.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Cursor/FX_Cursor.uasset'
+[2024.01.27-01.17.37:449][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.43 sec)
+[2024.01.27-01.17.37:540][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.27-01.17.37:564][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.27-01.17.37:586][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.27-01.17.37:636][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin' ref from Metadata '/Game/Characters/Mannequins/Meshes/SK_Mannequin.PackageMetaData'
+[2024.01.27-01.17.37:638][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop' ref from Metadata '/Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.PackageMetaData'
+[2024.01.27-01.17.37:640][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle' ref from Metadata '/Game/Characters/Mannequins/Animations/Manny/MM_Idle.PackageMetaData'
+[2024.01.27-01.17.37:642][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump' ref from Metadata '/Game/Characters/Mannequins/Animations/Manny/MM_Jump.PackageMetaData'
+[2024.01.27-01.17.37:643][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land' ref from Metadata '/Game/Characters/Mannequins/Animations/Manny/MM_Land.PackageMetaData'
+[2024.01.27-01.17.37:645][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd' ref from Metadata '/Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.PackageMetaData'
+[2024.01.27-01.17.37:647][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd' ref from Metadata '/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.PackageMetaData'
+[2024.01.27-01.17.37:648][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace' ref from Metadata '/Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.PackageMetaData'
+[2024.01.27-01.17.37:652][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.PackageMetaData'
+[2024.01.27-01.17.37:652][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.SKEL_CR_Mannequin_BasicFootIK_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateEntryNode_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateTransitionNode_5.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateNode_0.Locomotion.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateNode_3.Land.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateNode_1.Jump.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateNode_2.Fall Loop.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_1.Main States.AnimStateTransitionNode_7.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_0.Locomotion.AnimStateNode_1.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_0.Locomotion.AnimStateNode_2.Walk / Run.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_0.Locomotion.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny:AnimGraph.AnimGraphNode_StateMachine_0.Locomotion.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.SKEL_ABP_Manny_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.SKEL_ABP_Manny_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.SKEL_ABP_Manny_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.SKEL_ABP_Manny_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:655][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Manny.PackageMetaData'
+[2024.01.27-01.17.37:658][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.PackageMetaData'
+[2024.01.27-01.17.37:659][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.SKEL_CR_Mannequin_Procedural_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.PackageMetaData'
+[2024.01.27-01.17.37:660][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.PackageMetaData'
+[2024.01.27-01.17.37:664][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.PackageMetaData'
+[2024.01.27-01.17.37:667][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.PackageMetaData'
+[2024.01.27-01.17.37:670][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.PackageMetaData'
+[2024.01.27-01.17.37:672][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.PackageMetaData'
+[2024.01.27-01.17.37:675][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.PackageMetaData'
+[2024.01.27-01.17.37:678][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.PackageMetaData'
+[2024.01.27-01.17.37:681][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.PackageMetaData'
+[2024.01.27-01.17.37:685][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.PackageMetaData'
+[2024.01.27-01.17.37:687][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.PackageMetaData'
+[2024.01.27-01.17.37:689][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.PackageMetaData'
+[2024.01.27-01.17.37:692][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.PackageMetaData'
+[2024.01.27-01.17.37:695][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.PackageMetaData'
+[2024.01.27-01.17.37:698][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.SKEL_ABP_Manny_PostProcess_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.SKEL_ABP_Manny_PostProcess_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.SKEL_ABP_Manny_PostProcess_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.37:702][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.PackageMetaData'
+[2024.01.27-01.17.38:376][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny' ref from Metadata '/Game/Characters/Mannequins/Meshes/SKM_Manny.PackageMetaData'
+[2024.01.27-01.17.38:424][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple' ref from Metadata '/Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.PackageMetaData'
+[2024.01.27-01.17.38:427][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Quinn.PackageMetaData'
+[2024.01.27-01.17.38:427][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Quinn.PackageMetaData'
+[2024.01.27-01.17.38:427][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Quinn.PackageMetaData'
+[2024.01.27-01.17.38:427][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Quinn.PackageMetaData'
+[2024.01.27-01.17.38:427][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.SKEL_ABP_Quinn_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Quinn.PackageMetaData'
+[2024.01.27-01.17.38:427][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.SKEL_ABP_Quinn_C' ref from Metadata '/Game/Characters/Mannequins/Animations/ABP_Quinn.PackageMetaData'
+[2024.01.27-01.17.38:430][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd' ref from Metadata '/Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.PackageMetaData'
+[2024.01.27-01.17.38:431][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd' ref from Metadata '/Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.PackageMetaData'
+[2024.01.27-01.17.38:433][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle' ref from Metadata '/Game/Characters/Mannequins/Animations/Quinn/MF_Idle.PackageMetaData'
+[2024.01.27-01.17.38:488][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple' ref from Metadata '/Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.PackageMetaData'
+[2024.01.27-01.17.38:508][814]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.01.27-01.17.40:644][814]LogSkeletalMesh: Built Skeletal Mesh [6.66s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.01.27-01.17.40:800][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn' ref from Metadata '/Game/Characters/Mannequins/Meshes/SKM_Quinn.PackageMetaData'
+[2024.01.27-01.17.40:804][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.ABP_Quinn_PostProcess_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.PackageMetaData'
+[2024.01.27-01.17.40:804][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.SKEL_ABP_Quinn_PostProcess_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.PackageMetaData'
+[2024.01.27-01.17.40:804][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.SKEL_ABP_Quinn_PostProcess_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.PackageMetaData'
+[2024.01.27-01.17.40:804][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.SKEL_ABP_Quinn_PostProcess_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.PackageMetaData'
+[2024.01.27-01.17.40:804][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.ABP_Quinn_PostProcess_C:AnimGraph' ref from Metadata '/Game/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.PackageMetaData'
+[2024.01.27-01.17.40:814][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.PackageMetaData'
+[2024.01.27-01.17.40:814][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Body.SKEL_CR_Mannequin_Body_C' ref from Metadata '/Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.PackageMetaData'
+[2024.01.27-01.17.40:821][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.PackageMetaData'
+[2024.01.27-01.17.40:824][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.PackageMetaData'
+[2024.01.27-01.17.40:826][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.PackageMetaData'
+[2024.01.27-01.17.40:829][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.PackageMetaData'
+[2024.01.27-01.17.40:831][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.PackageMetaData'
+[2024.01.27-01.17.40:834][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.PackageMetaData'
+[2024.01.27-01.17.40:837][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.PackageMetaData'
+[2024.01.27-01.17.40:839][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.PackageMetaData'
+[2024.01.27-01.17.40:842][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.PackageMetaData'
+[2024.01.27-01.17.40:845][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.PackageMetaData'
+[2024.01.27-01.17.40:848][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.PackageMetaData'
+[2024.01.27-01.17.40:851][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.PackageMetaData'
+[2024.01.27-01.17.40:853][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.PackageMetaData'
+[2024.01.27-01.17.40:856][814]LogMetaData: Removing '/Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim' ref from Metadata '/Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.PackageMetaData'
+[2024.01.27-01.17.41:469][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.17.41:570][814]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.01.27-01.17.41:570][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BP_TopDownCharacterA45526E64435F6C4249990AA081AE3E2.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.01.27-01.17.41:591][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Civ/BP_Civ" FILE="../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Civ/BP_Civ.uasset" SILENT=true
+[2024.01.27-01.17.41:593][814]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Civ/BP_Civ
+[2024.01.27-01.17.41:594][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BP_Civ526E63D844363763EB8E75AE7B91E2BB.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Civ/BP_Civ.uasset'
+[2024.01.27-01.17.41:602][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.01.27-01.17.41:602][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SK_Mannequin725751E4450E97FCD9B24C887087B74D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.01.27-01.17.41:627][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Fall_Loop
+[2024.01.27-01.17.41:627][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_Fall_Loop93CD96964CE7065C63CBC7AA6448A900.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset'
+[2024.01.27-01.17.41:642][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Idle
+[2024.01.27-01.17.41:642][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_Idle1DF38EC5420C4BC1A5B27FB5E19E7C7A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_Idle.uasset'
+[2024.01.27-01.17.41:662][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Jump
+[2024.01.27-01.17.41:662][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_Jump26D29B044377F249C2CCFA9D7697D2E7.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_Jump.uasset'
+[2024.01.27-01.17.41:684][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Land
+[2024.01.27-01.17.41:684][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_LandDA5FE7744939ED9DABFB2897EBAA36B1.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_Land.uasset'
+[2024.01.27-01.17.41:698][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Run_Fwd
+[2024.01.27-01.17.41:698][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_Run_Fwd83DAB9044140303F4ACFCBAFEADA9C64.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset'
+[2024.01.27-01.17.41:712][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2024.01.27-01.17.41:712][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_Walk_Fwd15A079E14FE6BD64E80ED39F7BF85C24.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2024.01.27-01.17.41:735][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace
+[2024.01.27-01.17.41:735][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_Walk_InPlace5941AD974E026FECD693CDA0064572CB.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset'
+[2024.01.27-01.17.41:737][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun
+[2024.01.27-01.17.41:738][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BS_MM_WalkRun7155D1964719D24AB3F9D1A318C9E89C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset'
+[2024.01.27-01.17.41:784][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK
+[2024.01.27-01.17.41:784][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/CR_Mannequin_BasicFootIKEB0B2121436ADA1C62D28297F221C830.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset'
+[2024.01.27-01.17.41:784][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.
+[2024.01.27-01.17.41:821][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/ABP_Manny
+[2024.01.27-01.17.41:821][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ABP_MannyFDEF01D44C0B7F569A6248B214330309.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.01.27-01.17.41:822][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.
+[2024.01.27-01.17.42:018][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Procedural
+[2024.01.27-01.17.42:018][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/CR_Mannequin_Procedural2B625C954DC56B9BA7D7048033D9A876.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset'
+[2024.01.27-01.17.42:019][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.
+[2024.01.27-01.17.42:045][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim
+[2024.01.27-01.17.42:045][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_calf_l_animBE34D6EC4C153D623CDE1694C36A4F5D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset'
+[2024.01.27-01.17.42:048][814]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny': Can't find file.
+[2024.01.27-01.17.42:048][814]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny': Can't find file.
+[2024.01.27-01.17.42:048][814]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny.SKM_Manny'
+[2024.01.27-01.17.42:062][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose
+[2024.01.27-01.17.42:062][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_calf_l_poseD06F47CA457F2A983A142EBE9BD75552.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset'
+[2024.01.27-01.17.42:084][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim
+[2024.01.27-01.17.42:085][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_calf_r_animF67209B047FC7B717623509FF621E299.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset'
+[2024.01.27-01.17.42:103][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose
+[2024.01.27-01.17.42:103][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_calf_r_pose6699CDDF4113D9CC4773F78B6A0825A2.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset'
+[2024.01.27-01.17.42:123][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim
+[2024.01.27-01.17.42:123][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_clavicle_l_animCDBA796E4FC4FED3E0B60B9E6BDAA225.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset'
+[2024.01.27-01.17.42:142][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose
+[2024.01.27-01.17.42:142][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_clavicle_l_pose2C57882444F3A95DC768509712AD982A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset'
+[2024.01.27-01.17.42:162][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim
+[2024.01.27-01.17.42:163][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_clavicle_r_animECEDF8924E3B7A4113C06A92D6CAB615.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset'
+[2024.01.27-01.17.42:179][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose
+[2024.01.27-01.17.42:179][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_clavicle_r_poseD7EDDE8A42CF8A4298747E899AEB951F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset'
+[2024.01.27-01.17.42:200][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim
+[2024.01.27-01.17.42:200][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_foot_l_animE935D19D47BB8ECD8A75EE81BAC2D3F1.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset'
+[2024.01.27-01.17.42:212][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose
+[2024.01.27-01.17.42:212][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_foot_l_pose0A365AAC44A00E5971C695B25297FF59.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset'
+[2024.01.27-01.17.42:238][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim
+[2024.01.27-01.17.42:238][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_foot_r_anim74DF392142EA444B6F8B77A024D0DF11.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset'
+[2024.01.27-01.17.42:250][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose
+[2024.01.27-01.17.42:250][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_foot_r_pose1C671B3E4AAEFD45E0703DB87B4D7DD7.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset'
+[2024.01.27-01.17.42:270][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim
+[2024.01.27-01.17.42:270][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_hand_l_anim470D8BBC428BC99CECF2CD8966BFE3D0.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset'
+[2024.01.27-01.17.42:286][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose
+[2024.01.27-01.17.42:286][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_hand_l_pose4896B2E34843333C0FA1BAB7E6095848.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset'
+[2024.01.27-01.17.42:306][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim
+[2024.01.27-01.17.42:306][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_hand_r_anim45DDC86B470F1367AFE0A592E402074D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset'
+[2024.01.27-01.17.42:321][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose
+[2024.01.27-01.17.42:321][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_hand_r_poseA2B6FBC445DF85F114758EA5BE17835D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset'
+[2024.01.27-01.17.42:345][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim
+[2024.01.27-01.17.42:345][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_lowerarm_l_animD3FF30F846557BC291F53DB616AA226C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset'
+[2024.01.27-01.17.42:372][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose
+[2024.01.27-01.17.42:372][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_lowerarm_l_poseED85FCDE40E7FC079958F5A3EB2B16F6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset'
+[2024.01.27-01.17.42:393][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim
+[2024.01.27-01.17.42:393][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_lowerarm_r_anim286333784A1B470385159BAE8153004F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset'
+[2024.01.27-01.17.42:422][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose
+[2024.01.27-01.17.42:422][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_lowerarm_r_poseE957BC874F9BD472CEC88C88D99C938A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset'
+[2024.01.27-01.17.42:442][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim
+[2024.01.27-01.17.42:442][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_thigh_l_anim71C3995646382A86D974298123DE11CD.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset'
+[2024.01.27-01.17.42:484][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose
+[2024.01.27-01.17.42:484][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_thigh_l_pose91C422224566AD1CB2BEB68B7AB16399.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset'
+[2024.01.27-01.17.42:503][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim
+[2024.01.27-01.17.42:503][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_thigh_r_anim1F71A0FF444F1FDB99D74BB9E414C5D5.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset'
+[2024.01.27-01.17.42:548][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose
+[2024.01.27-01.17.42:548][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_thigh_r_pose3D41A9BF4181ACE519EE76B8B34FCA0F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset'
+[2024.01.27-01.17.42:568][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim
+[2024.01.27-01.17.42:568][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_upperarm_l_animD5191F1B4DB3430D93B7639D9E9A8817.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset'
+[2024.01.27-01.17.42:614][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose
+[2024.01.27-01.17.42:614][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_upperarm_l_poseA893D0844A9808BE25B5B29411DBC8C0.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset'
+[2024.01.27-01.17.42:634][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim
+[2024.01.27-01.17.42:634][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_upperarm_r_animE1AE80C34FF18E1F7401929B1F416581.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset'
+[2024.01.27-01.17.42:679][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose
+[2024.01.27-01.17.42:680][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Manny_upperarm_r_pose644D8FEC490863B709BF6DB2F3DCFFA9.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset'
+[2024.01.27-01.17.42:716][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess
+[2024.01.27-01.17.42:716][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ABP_Manny_PostProcess17F1F983439F9971CFFC20A579145BD2.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset'
+[2024.01.27-01.17.42:716][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.
+[2024.01.27-01.17.42:725][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Functions/ChromaticCurve
+[2024.01.27-01.17.42:725][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ChromaticCurveB2519E1E48D32272F6C056A30C11108B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset'
+[2024.01.27-01.17.42:728][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Functions/CA_Mannequin
+[2024.01.27-01.17.42:728][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/CA_Mannequin526452C649B4B1B61C3F25AEB3094E94.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset'
+[2024.01.27-01.17.42:733][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Functions/MF_Diffraction
+[2024.01.27-01.17.42:733][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MF_Diffraction12D631244A58CCC172D1EE9AAE030225.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset'
+[2024.01.27-01.17.42:737][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Shared/T_UE_Logo_M
+[2024.01.27-01.17.42:737][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_UE_Logo_M4F9921D24FEDA0B6A8EEBBB46101AC39.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset'
+[2024.01.27-01.17.42:745][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Functions/MF_logo3layers
+[2024.01.27-01.17.42:745][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MF_logo3layers39D0DC5C47D2365BB4AC3AA62A9EE1DB.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset'
+[2024.01.27-01.17.42:749][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff
+[2024.01.27-01.17.42:749][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ML_BaseColorFallOff99485C0844C2BB7ABE64CCBEF032830A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset'
+[2024.01.27-01.17.42:792][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK
+[2024.01.27-01.17.42:793][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_01_ASAOPMASK_MSK315C770E46EBF3ADAAB6179F15E46690.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset'
+[2024.01.27-01.17.42:911][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_BN
+[2024.01.27-01.17.42:911][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_01_BN97BEFD4B427A9D8411E9739926A0D803.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset'
+[2024.01.27-01.17.43:013][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK
+[2024.01.27-01.17.43:013][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_01_CCRCCPlastic_MSK1F15A66443B1F74EFFADEA85A479E6B4.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset'
+[2024.01.27-01.17.43:066][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_D
+[2024.01.27-01.17.43:066][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_01_DBA2A5D4B4631B9A66962A099A785324C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset'
+[2024.01.27-01.17.43:170][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK
+[2024.01.27-01.17.43:170][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_01_MSR_MSKF788C84A41C442CD8E6A7CB39EB649BD.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset'
+[2024.01.27-01.17.43:254][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_N
+[2024.01.27-01.17.43:254][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_01_N535A58DF4D711B2E2618129DEFBC190B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset'
+[2024.01.27-01.17.43:283][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan
+[2024.01.27-01.17.43:283][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_01_Tan3E8ED29D45AA6C507FF785959C00C3D8.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset'
+[2024.01.27-01.17.43:293][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/M_Mannequin
+[2024.01.27-01.17.43:293][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/M_Mannequin0AD03C1449820C6F9C9E30A58EF17AD4.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/M_Mannequin.uasset'
+[2024.01.27-01.17.43:296][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01
+[2024.01.27-01.17.43:296][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_Manny_01E2E3576C414932A022366983E016AD0F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset'
+[2024.01.27-01.17.43:378][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK
+[2024.01.27-01.17.43:378][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_02_ASAOPMASK_MSK6B2472D141654ABC3D81158DE14AF0E6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset'
+[2024.01.27-01.17.43:518][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_BN
+[2024.01.27-01.17.43:518][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_02_BN71F533B941C1D7801F46AFAA86F9AF3F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset'
+[2024.01.27-01.17.43:643][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK
+[2024.01.27-01.17.43:643][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_02_CCRCCPlastic_MSK298DEAAF42FC90CC76DFFE92E2953FB3.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset'
+[2024.01.27-01.17.43:722][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_D
+[2024.01.27-01.17.43:722][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_02_D86A6CCF3412C75AC20CB5FA569681BF2.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset'
+[2024.01.27-01.17.43:849][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK
+[2024.01.27-01.17.43:849][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_02_MSR_MSK88CAE68A4568018EBC0B02B5948027E3.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset'
+[2024.01.27-01.17.43:933][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_N
+[2024.01.27-01.17.43:933][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_02_NAB7F14D14B0A8092E8FF74AA3B587889.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset'
+[2024.01.27-01.17.43:967][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan
+[2024.01.27-01.17.43:967][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Manny_02_TanCB8BA43342F95BEFE157CE81927171AE.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset'
+[2024.01.27-01.17.43:971][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02
+[2024.01.27-01.17.43:971][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_Manny_0238B9EE6649C20FC90DCCFCB7EAD81680.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset'
+[2024.01.27-01.17.44:004][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/PA_Mannequin
+[2024.01.27-01.17.44:004][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/PA_MannequinA040C2BB4EFBE7E87B6FB496597A100A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/PA_Mannequin.uasset'
+[2024.01.27-01.17.45:058][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Meshes/SKM_Manny
+[2024.01.27-01.17.45:058][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SKM_Manny1BAE69264EB72917F648DABCF82F207A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Meshes/SKM_Manny.uasset'
+[2024.01.27-01.17.45:588][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Meshes/SKM_Manny_Simple
+[2024.01.27-01.17.45:588][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SKM_Manny_SimpleC9C8A05B4D10B953BE9FBF916DDADDE4.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset'
+[2024.01.27-01.17.45:593][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn
+[2024.01.27-01.17.45:593][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ABP_Quinn4119F9AA4B01FE2924A5A2917EA8365F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/ABP_Quinn.uasset'
+[2024.01.27-01.17.45:594][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.
+[2024.01.27-01.17.45:609][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_T_Pose
+[2024.01.27-01.17.45:609][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MM_T_PoseF313648E4F50A4AAE5B7AD9DB1311835.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Manny/MM_T_Pose.uasset'
+[2024.01.27-01.17.45:629][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd
+[2024.01.27-01.17.45:630][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MF_Walk_FwdE0A8FD6845D6E6ECFB8DDABB2F8BD8B6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset'
+[2024.01.27-01.17.45:650][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd
+[2024.01.27-01.17.45:650][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MF_Run_Fwd130F1E7C4EBF30D8D8A4FA9DE05FE87A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset'
+[2024.01.27-01.17.45:673][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Idle
+[2024.01.27-01.17.45:673][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MF_Idle2DDCA6FF445EB62DF49BCA8E8D2B6A6D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset'
+[2024.01.27-01.17.45:676][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun
+[2024.01.27-01.17.45:676][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BS_MF_Unarmed_WalkRun400B6DB0483A0434841A9D945B20ACCA.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset'
+[2024.01.27-01.17.45:679][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02
+[2024.01.27-01.17.45:679][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_Quinn_0250CC50974C54B55A3445ED919A3550DB.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset'
+[2024.01.27-01.17.45:683][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01
+[2024.01.27-01.17.45:683][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_Quinn_01C49492DB4EBDCD07B11331A34E3F2143.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset'
+[2024.01.27-01.17.45:684][814]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.17.46:226][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Meshes/SKM_Quinn_Simple
+[2024.01.27-01.17.46:226][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SKM_Quinn_Simple608571EC41D5C9A1E17E958A26F30E15.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset'
+[2024.01.27-01.17.46:227][814]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.17.47:265][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Meshes/SKM_Quinn
+[2024.01.27-01.17.47:265][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SKM_Quinn02B0CA5C430D0643E6C1EFAA8DA62BC8.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Meshes/SKM_Quinn.uasset'
+[2024.01.27-01.17.47:268][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Meshes/Mannequin_LODSettings
+[2024.01.27-01.17.47:268][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Mannequin_LODSettings1DE6FA1148B367071A4252A944F99E4D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Meshes/Mannequin_LODSettings.uasset'
+[2024.01.27-01.17.47:308][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess
+[2024.01.27-01.17.47:308][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ABP_Quinn_PostProcess8A8EE5304DD23F04B8BFA7886917E4E6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uasset'
+[2024.01.27-01.17.47:309][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.
+[2024.01.27-01.17.47:325][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/IK_Mannequin
+[2024.01.27-01.17.47:325][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/IK_MannequinA76F10EB4702E3F5CC31569AA8EDDE47.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/IK_Mannequin.uasset'
+[2024.01.27-01.17.47:329][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/RTG_Mannequin
+[2024.01.27-01.17.47:329][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/RTG_MannequinE60B38974B4B8792E042ACBA28BAF8DE.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/RTG_Mannequin.uasset'
+[2024.01.27-01.17.48:661][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Body
+[2024.01.27-01.17.48:661][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/CR_Mannequin_Body6505CBBC4A09AEB54FF3E68EB40E187D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset'
+[2024.01.27-01.17.48:665][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Body.
+[2024.01.27-01.17.48:709][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose
+[2024.01.27-01.17.48:709][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_upperarm_r_poseF278A6D040B491CE8185488317D1572E.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uasset'
+[2024.01.27-01.17.48:729][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim
+[2024.01.27-01.17.48:729][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_upperarm_r_animB7C0FD1D431BB467A3F515AFAE86B7BF.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uasset'
+[2024.01.27-01.17.48:765][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose
+[2024.01.27-01.17.48:765][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_upperarm_l_poseE0F66F2E46FF0542437C92809735BD92.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uasset'
+[2024.01.27-01.17.48:785][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim
+[2024.01.27-01.17.48:785][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_upperarm_l_anim9027DFA646626C6277F5DD9EA58F30B5.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uasset'
+[2024.01.27-01.17.48:827][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose
+[2024.01.27-01.17.48:827][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_thigh_r_pose6D34C921456DFF8D87683886B7C6F619.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uasset'
+[2024.01.27-01.17.48:847][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim
+[2024.01.27-01.17.48:847][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_thigh_r_anim18E9E1DE4F0B7B68B298B68A0C129A33.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uasset'
+[2024.01.27-01.17.48:888][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose
+[2024.01.27-01.17.48:888][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_thigh_l_pose142B5E9540A3A83B5A0A90A3D35EDC0B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uasset'
+[2024.01.27-01.17.48:908][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim
+[2024.01.27-01.17.48:908][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_thigh_l_animCF8957914859605545A64F8B16ADE8EE.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uasset'
+[2024.01.27-01.17.48:936][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose
+[2024.01.27-01.17.48:936][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_lowerarm_r_pose55488A7F4EA6CEF2122570B66198FB55.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uasset'
+[2024.01.27-01.17.48:956][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim
+[2024.01.27-01.17.48:956][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_lowerarm_r_anim531FA3C54692570A2422008BE419ABAF.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uasset'
+[2024.01.27-01.17.48:985][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose
+[2024.01.27-01.17.48:985][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_lowerarm_l_poseB94E32814F1ACBC47E9707874FBDAA5B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uasset'
+[2024.01.27-01.17.49:006][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim
+[2024.01.27-01.17.49:006][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_lowerarm_l_anim124C5AEB47EE55C150F9D997A072C08D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uasset'
+[2024.01.27-01.17.49:020][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose
+[2024.01.27-01.17.49:020][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_hand_r_poseD7030BE3453CE9BE691971AE5C1D0394.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uasset'
+[2024.01.27-01.17.49:039][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim
+[2024.01.27-01.17.49:039][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_hand_r_anim1B37E7A94F3E291D0B845582756ED7A9.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uasset'
+[2024.01.27-01.17.49:053][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose
+[2024.01.27-01.17.49:053][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_hand_l_pose93DCA2194A5CD05D52CFBCAC49A3A91B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uasset'
+[2024.01.27-01.17.49:073][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim
+[2024.01.27-01.17.49:074][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_hand_l_animF9B67C914D24513E7EAB63AE7EB236E2.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uasset'
+[2024.01.27-01.17.49:085][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose
+[2024.01.27-01.17.49:085][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_foot_r_pose799E862D4081213425362F858FBC8183.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uasset'
+[2024.01.27-01.17.49:106][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim
+[2024.01.27-01.17.49:107][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_foot_r_animF4865F9A4841A9094ADE988F3502B021.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uasset'
+[2024.01.27-01.17.49:118][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose
+[2024.01.27-01.17.49:118][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_foot_l_pose312E54F246AE72A8D3730082033F6B85.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uasset'
+[2024.01.27-01.17.49:139][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim
+[2024.01.27-01.17.49:139][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_foot_l_animC3446EE145637C5B56C87CB9D1522DAC.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uasset'
+[2024.01.27-01.17.49:154][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose
+[2024.01.27-01.17.49:154][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_clavicle_r_poseB53197C34169C5DCB815249956F22A32.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.uasset'
+[2024.01.27-01.17.49:175][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim
+[2024.01.27-01.17.49:175][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_clavicle_r_animB3017CBB4FECA31212A3FF83402D968E.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.uasset'
+[2024.01.27-01.17.49:177][814]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Mannequin/Meshes/SKM_Quinn': Can't find file.
+[2024.01.27-01.17.49:177][814]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Mannequin/Meshes/SKM_Quinn': Can't find file.
+[2024.01.27-01.17.49:177][814]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Heroes/Mannequin/Meshes/SKM_Quinn.SKM_Quinn'
+[2024.01.27-01.17.49:191][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose
+[2024.01.27-01.17.49:191][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_clavicle_l_poseD6FE85874EEF3F30DA19B7A44E43A946.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.uasset'
+[2024.01.27-01.17.49:215][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim
+[2024.01.27-01.17.49:215][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_clavicle_l_animB754D1CF4EB51434D49A2092BA2FDC1B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.uasset'
+[2024.01.27-01.17.49:233][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose
+[2024.01.27-01.17.49:233][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_calf_r_poseF114A8584859317B7BBD628D11F10E1B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.uasset'
+[2024.01.27-01.17.49:256][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim
+[2024.01.27-01.17.49:256][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_calf_r_anim34B46368411F59C6A0D809AB03813A78.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.uasset'
+[2024.01.27-01.17.49:275][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose
+[2024.01.27-01.17.49:275][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_calf_l_poseF9728C4347D6A5739802E1A12408DC7F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.uasset'
+[2024.01.27-01.17.49:297][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim
+[2024.01.27-01.17.49:297][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Quinn_calf_l_anim1D00895D4F1F7A8241E57A9B4B7D66FA.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.uasset'
+[2024.01.27-01.17.49:425][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK
+[2024.01.27-01.17.49:425][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_02_CCRCCPlastic_MSK4E3C2BD64E9EF7137B6B2B80E6E926FC.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset'
+[2024.01.27-01.17.49:495][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK
+[2024.01.27-01.17.49:495][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_02_ASAOMASK_MSK654149B44E9D0ABC1B9297BF904D89BE.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset'
+[2024.01.27-01.17.49:533][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan
+[2024.01.27-01.17.49:533][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_02ID_Tan5C4D8D8B47286E1BF1509BB5EBAF5CE5.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset'
+[2024.01.27-01.17.49:600][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N
+[2024.01.27-01.17.49:600][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_02ID_N252377594408CD2B31BFACAFB5431AAF.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset'
+[2024.01.27-01.17.49:754][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK
+[2024.01.27-01.17.49:754][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_02ID_MSR_MSK1803BB8E4B936AE86D2A68A6B1759E04.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset'
+[2024.01.27-01.17.49:831][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D
+[2024.01.27-01.17.49:831][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_02ID_D7308FF584DA1BBA22396B6B69C93EF96.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset'
+[2024.01.27-01.17.50:009][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN
+[2024.01.27-01.17.50:009][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_02ID_BNF43A3A06439FDD87B15FE491C89EE197.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset'
+[2024.01.27-01.17.50:178][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK
+[2024.01.27-01.17.50:178][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_01_CCRCCPlastic_MSK70AA094444740B8F08562EA05A69A68E.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset'
+[2024.01.27-01.17.50:266][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK
+[2024.01.27-01.17.50:266][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_01_ASAOMASK_MSK438010C54D293FBC255E8D80F4FB2595.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset'
+[2024.01.27-01.17.50:304][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan
+[2024.01.27-01.17.50:304][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_01ID_Tan7C43099845ED58F678C946B8D6F87066.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset'
+[2024.01.27-01.17.50:390][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N
+[2024.01.27-01.17.50:390][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_01ID_N9A4A605D48CA504A466052B946B400E4.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset'
+[2024.01.27-01.17.50:548][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK
+[2024.01.27-01.17.50:548][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_01ID_MSR_MSK60C8B3F245A183D3B22D15A89D498E4F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset'
+[2024.01.27-01.17.50:615][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D
+[2024.01.27-01.17.50:615][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_01ID_DEA39C296418E25FFADE7618E7FA3490D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset'
+[2024.01.27-01.17.50:769][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN
+[2024.01.27-01.17.50:769][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_Quinn_01ID_BNE53C37A14A21422FDF26719459D2DBCE.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset'
+[2024.01.27-01.17.50:783][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Animations/Jog_Fwd
+[2024.01.27-01.17.50:783][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Jog_FwdB3E26CDA42484669831685BBCA44CDC0.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset'
+[2024.01.27-01.17.50:786][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo
+[2024.01.27-01.17.50:786][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/M_MannequinUE4_ChestLogoEE7510234C3192C64C7A038A35831F03.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset'
+[2024.01.27-01.17.50:792][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body
+[2024.01.27-01.17.50:792][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/M_MannequinUE4_Body459B44764B23DA2E64CBF18EE75CE027.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset'
+[2024.01.27-01.17.50:795][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal
+[2024.01.27-01.17.50:795][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ML_SoftMetalE2A4B05F4035322489E02C82DB782C65.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset'
+[2024.01.27-01.17.50:799][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo
+[2024.01.27-01.17.50:799][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ML_ShinyPlastic_Beige_Logo5755FA5F4B75B44687257C880CB53C37.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset'
+[2024.01.27-01.17.50:802][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige
+[2024.01.27-01.17.50:802][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ML_ShinyPlastic_Beige3B6867024831AC4AD3A0428EC98823DA.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset'
+[2024.01.27-01.17.50:805][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black
+[2024.01.27-01.17.50:805][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/ML_Latex_Black848D64054B6934DB13E0A5878AD69248.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset'
+[2024.01.27-01.17.50:810][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton
+[2024.01.27-01.17.50:810][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SK_Mannequin_Skeleton2C6EF5E0490560E8A607D395A477070F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset'
+[2024.01.27-01.17.50:819][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset
+[2024.01.27-01.17.50:819][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SK_Mannequin_PhysicsAssetF46395B44A5EDD45C6EEF78525E42B9B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset'
+[2024.01.27-01.17.50:820][814]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.17.50:911][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin
+[2024.01.27-01.17.50:912][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SK_MannequinDCCDDDEB49B932B1FE38A5A88BDF6C6D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset'
+[2024.01.27-01.17.50:925][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin
+[2024.01.27-01.17.50:925][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/IK_UE4_Mannequin2BDD42604B4C12B2426E68B37081CDC6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset'
+[2024.01.27-01.17.50:933][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny
+[2024.01.27-01.17.50:933][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/RTG_UE4Manny_UE5Manny398652FF4B295FEAB956598CE19A96E5.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset'
+[2024.01.27-01.17.50:938][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny
+[2024.01.27-01.17.50:938][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/RTG_UE5Manny_UE4MannyD78A49AC49E6FA5C961F9E84F8BCA60D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset'
+[2024.01.27-01.17.50:948][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA
+[2024.01.27-01.17.50:948][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_UELogo_N_TGAE7F6C91D4163B9BDB0AEE996A456772D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset'
+[2024.01.27-01.17.50:958][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UELogo_Mask
+[2024.01.27-01.17.50:958][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_UELogo_MaskBA1CEDA64B1323E929A4769A6759D14E.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset'
+[2024.01.27-01.17.50:993][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals
+[2024.01.27-01.17.50:994][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_UE4_Mannequin__normalsF7A5C94E44447E850F1E8FA9FED6E655.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset'
+[2024.01.27-01.17.51:004][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA
+[2024.01.27-01.17.51:004][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_UE4_Mannequin_MAT_MASKAC068E4FB4B64F9BF3BC576916F2D324C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset'
+[2024.01.27-01.17.51:017][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N
+[2024.01.27-01.17.51:018][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_ML_Rubber_Blue_01_N584A84FF455C137160CF70B1892C95D2.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset'
+[2024.01.27-01.17.51:029][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D
+[2024.01.27-01.17.51:030][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_ML_Rubber_Blue_01_D8FCBC4D84FEEED0867CB2CB12F1475D8.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset'
+[2024.01.27-01.17.51:041][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N
+[2024.01.27-01.17.51:041][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_ML_Aluminum01_N22393EC74ED785A411176F9CBEEEE6D5.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset'
+[2024.01.27-01.17.51:053][814]LogSavePackage: Moving output files for package: /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01
+[2024.01.27-01.17.51:053][814]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_ML_Aluminum01A422A7EC4F493E77D1B3378E727C52C6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset'
+[2024.01.27-01.17.51:070][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.60 sec (total: 12.0 sec)
+[2024.01.27-01.17.53:724][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.27-01.17.53:755][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.27-01.17.53:784][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.27-01.17.53:887][814]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/TopDown/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/TopDown/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/TopDown/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/TopDown/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.ABP_Quinn_PostProcess
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.Manny_calf_l_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.Manny_calf_r_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.Manny_clavicle_l_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.Manny_clavicle_r_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.Manny_foot_l_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.Manny_foot_r_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.Manny_hand_l_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.Manny_hand_r_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.Manny_lowerarm_l_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.Manny_lowerarm_r_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.Manny_thigh_l_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.Manny_thigh_r_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.Manny_upperarm_l_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.Manny_upperarm_r_pose
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/TopDown/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.CurveLinearColor /Game/TopDown/Characters/Mannequins/Materials/Functions/ChromaticCurve.ChromaticCurve
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.CurveLinearColorAtlas /Game/TopDown/Characters/Mannequins/Materials/Functions/CA_Mannequin.CA_Mannequin
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/Characters/Mannequins/Materials/Functions/MF_Diffraction.MF_Diffraction
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.T_UE_Logo_M
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/Characters/Mannequins/Materials/Functions/MF_logo3layers.MF_logo3layers
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.ML_BaseColorFallOff
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK
+[2024.01.27-01.17.53:887][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_N.T_Manny_01_N
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.MI_Manny_01
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.T_Manny_02_ASAOPMASK_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.T_Manny_02_CCRCCPlastic_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_D.T_Manny_02_D
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.T_Manny_02_MSR_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_N.T_Manny_02_N
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.T_Manny_02_Tan
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.MI_Manny_02
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/TopDown/Characters/Mannequins/Rigs/PA_Mannequin.PA_Mannequin
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/TopDown/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Civ/BP_Civ.BP_Civ
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Manny/MM_T_Pose.MM_T_Pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.Quinn_upperarm_r_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.Quinn_upperarm_l_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.Quinn_thigh_r_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.Quinn_thigh_l_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.Quinn_lowerarm_r_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.Quinn_lowerarm_l_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.Quinn_hand_r_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.Quinn_hand_l_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.Quinn_foot_r_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.Quinn_foot_l_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.Quinn_clavicle_r_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/TopDown/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.Quinn_clavicle_l_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.Quinn_calf_r_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PoseAsset /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.Quinn_calf_l_pose
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/TopDown/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.MI_Quinn_02
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.T_Quinn_02ID_Tan
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.T_Quinn_02ID_N
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.T_Quinn_02ID_D
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.T_Quinn_02ID_BN
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.T_Quinn_02_CCRCCPlastic_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.T_Quinn_02_ASAOMASK_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.T_Quinn_02ID_MSR_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.MI_Quinn_01
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.T_Quinn_01ID_Tan
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.T_Quinn_01ID_N
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.T_Quinn_01ID_MSR_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.T_Quinn_01ID_D
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.T_Quinn_01ID_BN
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.T_Quinn_01_CCRCCPlastic_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.T_Quinn_01_ASAOMASK_MSK
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Cursor/T_Arrow.T_Arrow
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/Cursor/M_Cursor.M_Cursor
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/Cursor/SM_CursorMesh.SM_CursorMesh
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/TopDown/Cursor/FX_Cursor.FX_Cursor
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/TopDown/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/TopDown/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.BS_MF_Unarmed_WalkRun
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/TopDown/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshLODSettings /Game/TopDown/Characters/Mannequins/Meshes/Mannequin_LODSettings.Mannequin_LODSettings
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/TopDown/Characters/Mannequins/Rigs/IK_Mannequin.IK_Mannequin
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/TopDown/Characters/Mannequins/Rigs/RTG_Mannequin.RTG_Mannequin
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/TopDown/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/TopDown/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.ML_Latex_Black
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.ML_ShinyPlastic_Beige
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.ML_ShinyPlastic_Beige_Logo
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.ML_SoftMetal
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.M_MannequinUE4_Body
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.M_MannequinUE4_ChestLogo
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/TopDown/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/TopDown/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.IK_UE4_Mannequin
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/TopDown/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny
+[2024.01.27-01.17.53:888][814]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/TopDown/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.RTG_UE5Manny_UE4Manny
+[2024.01.27-01.17.53:913][815]LogAutomationController: Ignoring very large delta of 20.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.27-01.18.20:782][ 49]LogSlate: Took 0.005618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.27-01.19.39:363][243]BlueprintLog: New page: Compile BTD_PhaseCheck
+[2024.01.27-01.19.39:388][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.27-01.19.42:565][616]BlueprintLog: New page: Compile BTD_PhaseCheck
+[2024.01.27-01.19.42:589][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.01.27-01.19.43:242][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.19.43:307][688]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Decorators/BTD_PhaseCheck
+[2024.01.27-01.19.43:307][688]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTD_PhaseCheck9C63EF8B41E6625C6A7DDBA06C5B471E.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Decorators/BTD_PhaseCheck.uasset'
+[2024.01.27-01.19.43:313][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 12.1 sec)
+[2024.01.27-01.19.43:318][688]AssetCheck: New page: Asset Save: BTD_PhaseCheck
+[2024.01.27-01.19.43:318][688]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Decorators/BTD_PhaseCheck.BTD_PhaseCheck
+[2024.01.27-01.21.32:839][606]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.27-01.21.32:858][606]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.27-01.22.35:215][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.27-01.22.35:218][227]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.028
+[2024.01.27-01.22.35:218][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/Decorators/BTD_PhaseCheck] ([2] browsable assets)...
+[2024.01.27-01.22.35:218][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/Decorators/BTD_PhaseCheck]
+[2024.01.27-01.22.35:222][227]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/Decorators/BTD_PhaseCheck_Auto5
+[2024.01.27-01.22.35:222][227]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTD_PhaseCheck_Auto521AE3FD549ECD2F7B1AA9999C5A8870A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Autosaves/Game/Blueprints/AI/Decorators/BTD_PhaseCheck_Auto5.uasset'
+[2024.01.27-01.22.35:223][227]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.01.27-01.22.49:433][303]LogDerivedDataCache: C:/Users/B020090M.STUDENT/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1052 files in 1787 folders with total size 99 MiB.
+[2024.01.27-01.22.59:302][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.22.59:338][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Materials/M_Solid
+[2024.01.27-01.22.59:338][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/M_SolidCEC7712A4420A6716658F79F67764060.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Materials/M_Solid.uasset'
+[2024.01.27-01.22.59:341][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_Solid
+[2024.01.27-01.22.59:342][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/M_SolidD73AD1434467117BF790FEBC24C9C25B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Materials/M_Solid.uasset'
+[2024.01.27-01.22.59:348][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Materials/M_PrototypeGrid
+[2024.01.27-01.22.59:348][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/M_PrototypeGridEA096C5F4176B40BA4AE0C879F4F199D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Materials/M_PrototypeGrid.uasset'
+[2024.01.27-01.22.59:350][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Materials/MI_Solid_Blue
+[2024.01.27-01.22.59:350][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_Solid_BlueC0CB7EB74891A4D56C10A9807CBF003C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Materials/MI_Solid_Blue.uasset'
+[2024.01.27-01.22.59:353][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark
+[2024.01.27-01.22.59:353][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_PrototypeGrid_TopDark8D073F3547D13F7B00EECFAA031861E3.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset'
+[2024.01.27-01.22.59:355][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark
+[2024.01.27-01.22.59:355][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_PrototypeGrid_TopDarkCF25F77345D5E9B539363F87A1568D8C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset'
+[2024.01.27-01.22.59:358][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02
+[2024.01.27-01.22.59:358][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_PrototypeGrid_Gray_0277CB8E1140823CFBD2D875A35D5A2CC2.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset'
+[2024.01.27-01.22.59:360][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_Gray
+[2024.01.27-01.22.59:360][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_PrototypeGrid_Gray77A01CA345CA33724A9831978992F3AE.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset'
+[2024.01.27-01.22.59:363][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray
+[2024.01.27-01.22.59:363][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MI_PrototypeGrid_Gray3A441BE34A2239A13C26CEAB0F1E51A5.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset'
+[2024.01.27-01.22.59:370][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Materials/MF_ProcGrid
+[2024.01.27-01.22.59:370][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/MF_ProcGridA2951B3143DB137134C652AA18BBD5E9.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Materials/MF_ProcGrid.uasset'
+[2024.01.27-01.22.59:409][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Meshes/SM_Ramp
+[2024.01.27-01.22.59:409][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_Ramp2409ED094A0E5902AC814AA9EAD5304D.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Meshes/SM_Ramp.uasset'
+[2024.01.27-01.22.59:411][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_Ramp
+[2024.01.27-01.22.59:412][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_RampC47EED594B82AC70E095E0B4F8387556.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Meshes/SM_Ramp.uasset'
+[2024.01.27-01.22.59:428][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Meshes/SM_QuarterCylinder
+[2024.01.27-01.22.59:428][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_QuarterCylinder9A57E395440B54429F543885D18C59B4.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset'
+[2024.01.27-01.22.59:430][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_QuarterCylinder
+[2024.01.27-01.22.59:431][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_QuarterCylinderADC4311F4E110B257EFE57998522447A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset'
+[2024.01.27-01.22.59:447][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Meshes/SM_Cylinder
+[2024.01.27-01.22.59:447][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_CylinderE098D6A14EC09762F04C4882F3A54861.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Meshes/SM_Cylinder.uasset'
+[2024.01.27-01.22.59:450][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_Cylinder
+[2024.01.27-01.22.59:450][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_Cylinder7DAAF4464BE9F3EF2BA4FBB790A20EF6.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset'
+[2024.01.27-01.22.59:469][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Meshes/SM_Cube
+[2024.01.27-01.22.59:469][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_CubeE1C9E1F3454AACFB5D5A529F9790195C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Meshes/SM_Cube.uasset'
+[2024.01.27-01.22.59:471][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_Cube
+[2024.01.27-01.22.59:471][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_Cube0F21E76540A62544F00726AC630EC436.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Meshes/SM_Cube.uasset'
+[2024.01.27-01.22.59:494][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Meshes/SM_ChamferCube
+[2024.01.27-01.22.59:494][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_ChamferCube25FCB78C4DBA6CAC934ABC8B22CCE722.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Meshes/SM_ChamferCube.uasset'
+[2024.01.27-01.22.59:497][429]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_ChamferCube
+[2024.01.27-01.22.59:497][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/SM_ChamferCube1B6ADC6A4F52778549DA6791C9BB6E45.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset'
+[2024.01.27-01.22.59:503][429]LogSavePackage: Moving output files for package: /Game/TopDown/LevelPrototyping/Textures/T_GridChecker_A
+[2024.01.27-01.22.59:504][429]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/T_GridChecker_A3C76745E422BF40C40B634BD7F213956.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/TopDown/LevelPrototyping/Textures/T_GridChecker_A.uasset'
+[2024.01.27-01.22.59:510][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 12.3 sec)
+[2024.01.27-01.22.59:606][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.27-01.22.59:632][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.27-01.22.59:660][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.27-01.22.59:678][429]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.MI_PrototypeGrid_Gray
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/M_Solid.M_Solid
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.MI_PrototypeGrid_Gray
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.MI_PrototypeGrid_TopDark
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.MI_PrototypeGrid_Gray_02
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.MI_PrototypeGrid_TopDark
+[2024.01.27-01.22.59:678][429]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/LevelPrototyping/Materials/MI_Solid_Blue.MI_Solid_Blue
+[2024.01.27-01.22.59:679][429]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+[2024.01.27-01.22.59:679][429]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/TopDown/LevelPrototyping/Materials/MF_ProcGrid.MF_ProcGrid
+[2024.01.27-01.22.59:679][429]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/LevelPrototyping/Textures/T_GridChecker_A.T_GridChecker_A
+[2024.01.27-01.22.59:679][429]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/LevelPrototyping/Materials/M_Solid.M_Solid
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: ================================================
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Total job queries 3,615, among them cache hits 24 (0.66%)
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Tracking 3,585 distinct input hashes that result in 2,550 distinct outputs (71.13%)
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: RAM used: 59.79 MiB of 1.60 GiB budget. Usage: 3.65%
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Shaders Compiled: 3,585
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Jobs assigned 3,591, completed 3,585 (99.83%)
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Average time worker was idle: 58.24 s
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Time job spent in pending queue: average 99.64 s, longest 219.63 s
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Job execution time: average 5.06 s, max 12.18 s
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Job life time (pending + execution): average 104.86 s, max 222.56
+[2024.01.27-01.23.00:081][468]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 253.33 s
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Jobs were issued in 487 batches (only local compilation was used), average 7.37 jobs/batch
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Average processing rate: 14.15 jobs/sec
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Total thread time: 1,836.14 s
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Total thread preprocess time: 56.4 s
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Percentage time preprocessing: 3.07%
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Effective parallelization: 7.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.66 sec, max 4.57 sec, min 2.30 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.41 sec, max 5.99 sec, min 1.22 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.46 sec, max 2.15 sec, min 0.70 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.40 sec, max 1.40 sec, min 1.40 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 1.37 sec, max 1.37 sec, min 1.37 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.94% of total time (compiled  150 times, average 1.22 sec, max 1.51 sec, min 0.84 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.22% of total time (compiled   96 times, average 1.00 sec, max 1.46 sec, min 0.70 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.53% of total time (compiled  128 times, average 0.65 sec, max 1.02 sec, min 0.34 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.41% of total time (compiled  128 times, average 0.63 sec, max 0.86 sec, min 0.46 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.39% of total time (compiled   96 times, average 0.84 sec, max 1.17 sec, min 0.43 sec)
+[2024.01.27-01.23.00:082][468]LogShaderCompilers: Display: ================================================
+[2024.01.27-01.23.16:502][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.27-01.23.17:485][378]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.27-01.23.17:548][378]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-01.23.17:548][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-01.23.17:559][378]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/AI/Decorators/BTD_PhaseCheck.BTD_PhaseCheck
+	Asset Type: Blueprint
+[2024.01.27-01.23.17:947][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.27-01.23.17:969][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.27-01.23.17:992][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.27-01.32.48:588][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.27-01.32.48:590][981]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.026
+[2024.01.27-01.32.48:590][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/Civ/BT_Civ] ([1] browsable assets)...
+[2024.01.27-01.32.48:590][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/Civ/BT_Civ]
+[2024.01.27-01.32.48:592][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/Civ/BT_Civ_Auto6
+[2024.01.27-01.32.48:592][981]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BT_Civ_Auto65B21AA63407D33B071D97FAB86B68563.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Autosaves/Game/Blueprints/AI/Civ/BT_Civ_Auto6.uasset'
+[2024.01.27-01.32.48:593][981]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.01.27-01.40.55:115][804]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.27-01.40.55:126][804]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.27-01.40.55:132][804]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.27-01.40.58:065][804]LogContentBrowser: Attempting asset rename: NewFolder -> Tasks
+[2024.01.27-01.40.58:066][804]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.27-01.42.32:616][804]LogSlate: Window 'Save Asset As' being destroyed
+[2024.01.27-01.42.32:632][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.42.32:632][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.42.32:632][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-01.42.32:668][804]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.
+[2024.01.27-01.42.32:694][805]LogAutomationController: Ignoring very large delta of 101.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.27-01.44.00:382][514]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.44.00:408][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.27-01.44.00:941][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.44.01:000][573]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.44.01:000][573]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandom8347D23A466CE4C17B231CA27FAB1A6F.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.44.01:001][573]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.
+[2024.01.27-01.44.01:008][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 12.3 sec)
+[2024.01.27-01.44.01:013][573]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.44.01:013][573]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.44.27:675][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.27-01.44.27:677][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.025
+[2024.01.27-01.44.27:677][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/Civ/BT_Civ] ([1] browsable assets)...
+[2024.01.27-01.44.27:677][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/Civ/BT_Civ]
+[2024.01.27-01.44.27:678][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/Civ/BT_Civ_Auto7
+[2024.01.27-01.44.27:678][627]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BT_Civ_Auto72F0C1233442ADE228DCE4392F2C77191.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/Autosaves/Game/Blueprints/AI/Civ/BT_Civ_Auto7.uasset'
+[2024.01.27-01.44.27:679][627]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.01.27-01.45.16:349][500]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.45.16:378][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.01.27-01.45.16:783][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.45.16:835][543]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.45.16:836][543]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandom676295774DEEBA5DA26F74A25E43F64A.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.45.16:841][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 12.4 sec)
+[2024.01.27-01.45.16:847][543]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.45.16:847][543]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.45.21:040][ 39]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.45.21:064][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.27-01.45.21:632][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.45.21:687][ 96]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.45.21:687][ 96]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandom3459450F4A74234DA55179B73F26FBBD.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.45.21:693][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 12.4 sec)
+[2024.01.27-01.45.21:699][ 96]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.45.21:699][ 96]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.45.35:449][724]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.45.35:487][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.27-01.45.36:041][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.45.36:104][787]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.45.36:104][787]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandomCEB477E74CA5BB9EB3503BB7B47CDE1C.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.45.36:110][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 12.5 sec)
+[2024.01.27-01.45.36:116][787]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.45.36:116][787]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.45.40:265][280]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.45.40:302][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.27-01.45.40:849][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.45.40:887][342]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.45.40:887][342]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandomD0B9E46748BC55B7546D5298E063DD7B.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.45.40:893][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 12.6 sec)
+[2024.01.27-01.45.40:898][342]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.45.40:898][342]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.45.57:399][ 72]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.45.57:437][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.27-01.45.58:067][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.45.58:119][138]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.45.58:120][138]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandomD8387746467E893B6303F9A592AE2351.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.45.58:125][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 12.6 sec)
+[2024.01.27-01.45.58:131][138]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.45.58:131][138]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.46.09:465][468]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.46.09:501][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.27-01.46.10:200][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.46.10:253][548]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.46.10:253][548]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandom56462C50466AA7019E6425B643A624BB.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.46.10:259][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 12.7 sec)
+[2024.01.27-01.46.10:265][548]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.46.10:265][548]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.46.35:249][123]BlueprintLog: New page: Compile BTTask_MoveRandom
+[2024.01.27-01.46.35:286][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.27-01.46.35:718][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.46.35:752][170]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Tasks/BTTask_MoveRandom
+[2024.01.27-01.46.35:753][170]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BTTask_MoveRandom29C21A5A4DD6B59ACB2D45B00D809F49.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Tasks/BTTask_MoveRandom.uasset'
+[2024.01.27-01.46.35:758][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 12.7 sec)
+[2024.01.27-01.46.35:763][170]AssetCheck: New page: Asset Save: BTTask_MoveRandom
+[2024.01.27-01.46.35:763][170]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Tasks/BTTask_MoveRandom.BTTask_MoveRandom
+[2024.01.27-01.47.21:976][447]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/Civ/BP_CivCont.BP_CivCont
+[2024.01.27-01.47.21:976][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.47.21:976][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-01.47.23:269][586]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-01.47.23:269][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-01.47.23:280][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/Civ/BP_CivCont.BP_CivCont
+[2024.01.27-01.47.23:281][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-01.47.23:281][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-01.47.33:532][744]BlueprintLog: New page: Compile BP_CivCont
+[2024.01.27-01.47.33:570][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.27-01.47.34:242][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-01.47.34:302][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Civ/BP_CivCont" FILE="../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Civ/BP_CivCont.uasset" SILENT=true
+[2024.01.27-01.47.34:304][822]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/Civ/BP_CivCont
+[2024.01.27-01.47.34:305][822]LogSavePackage: Moving '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Saved/BP_CivCont3B621FA040D802550CE88097AB42B2B0.tmp' to '../../../../../../Users/B020090M.STUDENT/Documents/GitHub/ClowningAround/Content/Blueprints/AI/Civ/BP_CivCont.uasset'
+[2024.01.27-01.47.34:310][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 12.8 sec)
+[2024.01.27-01.47.34:315][822]AssetCheck: New page: Asset Save: BP_CivCont
+[2024.01.27-01.47.34:315][822]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI/Civ/BP_CivCont.BP_CivCont
