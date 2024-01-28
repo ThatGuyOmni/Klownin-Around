@@ -1,0 +1,124 @@
+[+] Containers:
+ |- [+] Container: /Game/Level/gamesjamtest1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:042ED07A403BAF4061873CA41D7A5962 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:043537C94BBE872BD7B0F18C6ACE1714 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1376402586 Label:House2_GeometryCollection SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11671.325 Y=-11069.684 Z=8.329), Max=(X=-10316.626 Y=-9930.367 Z=1423.947) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:0F596E8D45F40C1E0391AEB439D15960 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1518412588 Label:House3_GeometryCollection2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3921.491 Y=-7952.722 Z=-11.007), Max=(X=6085.679 Y=-6791.523 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2305FCFD47764C2A3B1BED9F26D2E84F BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1402562587 Label:newestHouse_GeometryCollection SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6908.119 Y=-1548.375 Z=-19.054), Max=(X=8214.868 Y=-451.625 Z=1347.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:30A9864B4FC860F7F9A0D79550C7355B BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4747B9424B0E1F9BA40ADAA4719C5555 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_0068EBC33FADCDD301_1146759072 Label:T_TileGameMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25100.000 Y=-64000.000 Z=-199.001), Max=(X=38900.000 Y=0.000 Z=201.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4D09DF1F42D1C0C3E3978B9508FFD11D BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1600772592 Label:House3_GeometryCollection4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5085.679 Y=-6208.477 Z=-11.007), Max=(X=-2921.491 Y=-5047.278 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4EFE5A124804C47FAB0626803B95D6B2 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:517FC4EF4058CC177B3E50B9F9BB4312 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:5ECCD1B245C499417341D38C628FBDA0 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1616905593 Label:House3_GeometryCollection5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12085.679 Y=-6208.477 Z=-11.007), Max=(X=-9921.491 Y=-5047.278 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7820627C49B3EBA87EE195931673C700 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0068EBC33FADCDD301_1404071074 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-45000.000 Y=-80000.000 Z=-0.000), Max=(X=55000.000 Y=20000.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:94100E074774DC70BA23F19035BB68CA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A98E271D4C4E7112F5BB8892F7F2470C BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1619422594 Label:House3_GeometryCollection6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8585.679 Y=-6208.477 Z=-11.007), Max=(X=-6421.491 Y=-5047.278 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BD5489374AA0C62B7238978543133DE7 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1548602591 Label:House3_GeometryCollection3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8578.509 Y=-10952.722 Z=-11.007), Max=(X=-6414.321 Y=-9791.523 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BEBF74A5463E9D952E389C8B4B44B378 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1540486589 Label:House2_GeometryCollection2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4671.325 Y=-11069.684 Z=8.329), Max=(X=-3316.626 Y=-9930.367 Z=1423.947) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D01987A64EC7AA1D6A0EA1BA7034D077 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1304756584 Label:House3_GeometryCollection SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=921.492 Y=-7952.722 Z=-11.007), Max=(X=3085.679 Y=-6791.523 Z=1426.263) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D035D005418159B3246D08939827D69B BaseClass:/Game/Blueprint/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:SportsCar_Pawn_C_UAID_6C02E05F3169D0D301_1650179595 Label:SportsCar_Pawn2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7137.500 Y=-8137.500 Z=-287.500), Max=(X=-5862.500 Y=-6862.500 Z=287.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DD5F8E13479AE3E764ECB69E9F3F01B0 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E1EEECF84B86473E841F499A5979B798 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_6C02E05F2016ACD301-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E965A70243C63AEFDDC6C8AAFDFADCEB BaseClass:/Game/Blueprint/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:SportsCar_Pawn_C_UAID_0068EBC33FADCDD301_1483579075 Label:SportsCar_Pawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3637.500 Y=-47637.500 Z=-287.500), Max=(X=-2362.500 Y=-46362.500 Z=287.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:042ED07A403BAF4061873CA41D7A5962 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:4747B9424B0E1F9BA40ADAA4719C5555 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_0068EBC33FADCDD301_1146759072 Label:T_TileGameMap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25100.000 Y=-64000.000 Z=-199.001), Max=(X=38900.000 Y=0.000 Z=201.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:94100E074774DC70BA23F19035BB68CA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:DD5F8E13479AE3E764ECB69E9F3F01B0 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:E965A70243C63AEFDDC6C8AAFDFADCEB BaseClass:/Game/Blueprint/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:SportsCar_Pawn_C_UAID_0068EBC33FADCDD301_1483579075 Label:SportsCar_Pawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3637.500 Y=-47637.500 Z=-287.500), Max=(X=-2362.500 Y=-46362.500 Z=287.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:E1EEECF84B86473E841F499A5979B798 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_6C02E05F2016ACD301-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:30A9864B4FC860F7F9A0D79550C7355B BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:517FC4EF4058CC177B3E50B9F9BB4312 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:7820627C49B3EBA87EE195931673C700 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0068EBC33FADCDD301_1404071074 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-45000.000 Y=-80000.000 Z=-0.000), Max=(X=55000.000 Y=20000.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:4EFE5A124804C47FAB0626803B95D6B2 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:D01987A64EC7AA1D6A0EA1BA7034D077 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1304756584 Label:House3_GeometryCollection SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=921.492 Y=-7952.722 Z=-11.007), Max=(X=3085.679 Y=-6791.523 Z=1426.263) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:043537C94BBE872BD7B0F18C6ACE1714 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1376402586 Label:House2_GeometryCollection SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-11671.325 Y=-11069.684 Z=8.329), Max=(X=-10316.626 Y=-9930.367 Z=1423.947) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:2305FCFD47764C2A3B1BED9F26D2E84F BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1402562587 Label:newestHouse_GeometryCollection SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6908.119 Y=-1548.375 Z=-19.054), Max=(X=8214.868 Y=-451.625 Z=1347.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:0F596E8D45F40C1E0391AEB439D15960 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1518412588 Label:House3_GeometryCollection2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3921.491 Y=-7952.722 Z=-11.007), Max=(X=6085.679 Y=-6791.523 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:BEBF74A5463E9D952E389C8B4B44B378 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1540486589 Label:House2_GeometryCollection2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4671.325 Y=-11069.684 Z=8.329), Max=(X=-3316.626 Y=-9930.367 Z=1423.947) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:BD5489374AA0C62B7238978543133DE7 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1548602591 Label:House3_GeometryCollection3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8578.509 Y=-10952.722 Z=-11.007), Max=(X=-6414.321 Y=-9791.523 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:4D09DF1F42D1C0C3E3978B9508FFD11D BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1600772592 Label:House3_GeometryCollection4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5085.679 Y=-6208.477 Z=-11.007), Max=(X=-2921.491 Y=-5047.278 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:5ECCD1B245C499417341D38C628FBDA0 BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1616905593 Label:House3_GeometryCollection5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12085.679 Y=-6208.477 Z=-11.007), Max=(X=-9921.491 Y=-5047.278 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:A98E271D4C4E7112F5BB8892F7F2470C BaseClass: NativeClass:/Script/GeometryCollectionEngine.GeometryCollectionActor Name:GeometryCollectionActor_UAID_6C02E05F3169D0D301_1619422594 Label:House3_GeometryCollection6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8585.679 Y=-6208.477 Z=-11.007), Max=(X=-6421.491 Y=-5047.278 Z=1426.264) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:D035D005418159B3246D08939827D69B BaseClass:/Game/Blueprint/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.SportsCar_Pawn_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:SportsCar_Pawn_C_UAID_6C02E05F3169D0D301_1650179595 Label:SportsCar_Pawn2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7137.500 Y=-8137.500 Z=-287.500), Max=(X=-5862.500 Y=-6862.500 Z=287.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-45000.000 Y=-80000.000 Z=-287.500), Max=(X=55000.000 Y=20000.000 Z=1426.264)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Level/gamesjamtest1
+----------------------------------------------------------------------------------------------------------------
+gamesjamtest1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 27 
+
+----------------------------------------------------------------------------------------------------------------
+gamesjamtest1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-45000.000 Y=-80000.000 Z=-287.500), Max=(X=55000.000 Y=20000.000 Z=1426.264)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 4
+ |- Level  0: Cell Count    3 | Cell Size   25600 | Actor Count   11 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+ |- Level  3: Cell Count    0 | Cell Size  204800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X-1_Y-2
+ |   |- Actor Count: 1
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.SportsCar_Pawn_C_UAID_0068EBC33FADCDD301_1483579075
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/7/WZ/PS214AIXLTYY94VF7R4225
+ |- [+] Content of Cell MainGrid_L0_X0_Y-1
+ |   |- Actor Count: 3
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1304756584
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/9/0V/JO1RBSSMQYCNMNSBTZMZL4
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1402562587
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/5/T5/QNND0YEW2WZVSMMIK0HOUD
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1518412588
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/4/RN/QPLROUROW8CMKC2IIJ8LKI
+ |- [+] Content of Cell MainGrid_L0_X-1_Y-1
+ |   |- Actor Count: 7
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1376402586
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/7/NC/VBSWFQMZXP701AAR2MZIB3
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1540486589
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/A/IQ/F4BP3AWHEGN32UG2TYCNV7
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1548602591
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/A/TF/NHIFQTQX8YNQA510YODQPY
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1600772592
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/D/TU/Q8N4Z5V09259OQLWZOCWHQ
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1616905593
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/C/NR/BPM1BP91TAOOIFVKXUOF5Y
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.GeometryCollectionActor_UAID_6C02E05F3169D0D301_1619422594
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/D/6J/B2PD9KFQQM3QI7EIMWJTSQ
+ |   |- Actor Path: /Game/Level/gamesjamtest1.gamesjamtest1:PersistentLevel.SportsCar_Pawn_C_UAID_6C02E05F3169D0D301_1650179595
+ |   |- Actor Package: /Game/__ExternalActors__/Level/gamesjamtest1/0/9B/CTOM74VC2EWBFK337GXZQ5
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+[+] Content of Grid Level 3
+
