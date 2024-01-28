@@ -5,12 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/__ExternalActors__/Level/gamesjamtest1/E/8Z/NAPYBQNNV2LMKV9M096ELA.uasset",
 				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Level/gamesjamtest1.umap",
 				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/__ExternalActors__/Level/gamesjamtest1/0/5A/T8WPAY9K3YNNYZYDZTRDU7.uasset",
 				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/UI/GameUI.uasset",
 				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Blueprint/Spawners_And_Managers/BP_Manager.uasset",
 				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/__ExternalActors__/Level/gamesjamtest1/5/FU/DWN9OAMG3ZNZ3GV65XAS9W.uasset",
+=======
+				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/__ExternalActors__/Level/gamesjamtest1/3/XS/RPYXCKTGEZCEBVIKWDVQLB.uasset",
+				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Blueprint/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Blueprint/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve.uasset",
+				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Blueprint/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsFront.uasset",
+				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Blueprint/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear.uasset",
+				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/__ExternalActors__/Level/gamesjamtest1/0/WL/C5FL32G1WDA4S06IKE445P.uasset",
+				"C:/Users/r015370l.STUDENT/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Level/gamesjamtest1.umap",
+>>>>>>> Stashed changes
 				"C:/Users/B020090M/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Blueprint/Spawners_And_Managers/BP_Manager.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/Blueprint/Spawners_And_Managers/BP_EnemySpawner.uasset",
 				"C:/Users/B020090M/Documents/GitHub/Klownin-Around/FRAMEWORK/Content/__ExternalActors__/Level/gamesjamtest1/6/4N/WNH6A93ZYKP8NNWQE39JXQ.uasset",
